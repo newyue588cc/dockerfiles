@@ -1,0 +1,1 @@
+FROM gcr.io/spinnaker-marketplace/gate:1.9.0-20190719051321

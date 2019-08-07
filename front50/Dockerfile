@@ -1,0 +1,1 @@
+FROM gcr.io/spinnaker-marketplace/front50:0.18.0-20190709142816

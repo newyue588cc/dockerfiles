@@ -1,0 +1,1 @@
+FROM gcr.io/spinnaker-marketplace/rosco:0.13.0-20190709142816
